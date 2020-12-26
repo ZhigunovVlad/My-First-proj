@@ -1,1 +1,1 @@
-# My-First-proj
+# Examples of projects
